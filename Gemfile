@@ -22,6 +22,8 @@ gem 'turbolinks'
 
 gem 'omniauth'
 
+gem 'dotenv-rails'
+
 gem 'omniauth-facebook'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 # gem 'jbuilder', '~> 2.0'
